@@ -22,4 +22,4 @@ Genius APIを使い、
 ■ 機能候補
 Spotify APIなどを使い、曲を再生すれば、歌詞を同時翻訳できるようにしたい。曲の解説や、アノテーションも和訳できるようにしたい
 ■ 機能の実装方針予定
-spotify API、 Genius API 、ChatGPT APIなど複数のAPIを同時に使うことができるのかが気になるが、掛け合わせて便利なものを実装できたら嬉しい
+spotify API、 Genius API 、ChatGPT API,など複数のAPIを同時に使うことができるのかが気になるが、掛け合わせて便利なものを実装できたら嬉しい
