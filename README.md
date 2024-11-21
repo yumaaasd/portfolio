@@ -49,3 +49,6 @@ Git
 
 Figma-URL
 https://www.figma.com/design/ytl21xiscmdNB3H369qnrF/UI-flows-for-Figma-(Community)?node-id=0-1&node-type=canvas&t=prPq7HXbJ1df32Kx-0
+
+ER図
+https://app.diagrams.net/?libs=general;er#
