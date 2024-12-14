@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :blog do
-    resources :comments, only: [:create, :destroy]
-  end
+  root 'home#index' 
+  resources :translations, only: [:new, :create, :index, :show]
 end

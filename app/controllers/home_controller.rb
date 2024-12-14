@@ -1,4 +1,4 @@
-class BlogsController < ApplicationController
+class HomeController < ApplicationController
   before_action :set_blog, only: [:show, :edit, :update]
 
   def index
